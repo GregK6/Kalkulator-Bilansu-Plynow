@@ -11,7 +11,7 @@ Aplikacja służy wyłącznie do celów informacyjnych i edukacyjnych. Nie nale�
 
 ### Jak uruchomić aplikację
 1. Rozpakuj archiwum **.zip**.
-2. Uruchom plik **"kalkulator-bilansu-plynow.exe"**.
+2. Uruchom plik **"Licznik Bilansu.exe"**.
 
 #### Wymagania wstępne
 Możliwe, że do uruchomienia aplikacji będzie potrzebne zainstalowanie **.NET**.
