@@ -18,4 +18,13 @@ Możliwe, że do uruchomienia aplikacji będzie potrzebne zainstalowanie **.NET*
 
 ---
 
+### Problem z Windows SmartScreen
+Ponieważ aplikacja nie posiada podpisu cyfrowego, system Windows może wyświetlić ostrzeżenie **"System Windows ochronił ten komputer"**.
+
+**Aby uruchomić aplikację pomimo ostrzeżenia:**
+1. W oknie SmartScreen kliknij na tekst **"Więcej informacji"**.
+2. Kliknij przycisk **"Uruchom mimo to"**.
+
+---
+
 *©2025 Grzegorz Kurowski*
