@@ -1,31 +1,42 @@
 # README
-Prosta aplikacja, która pomaga uchronić się od furosemidu.
-Ta aplikacja jest dostępna tylko na systemy operacyjne **Windows** i na razie nie mam planów, by to zmieniać.
+
+Prosta aplikacja wspomagająca prowadzenie bilansu płynów u pacjentów
+otrzymujących furosemid, mająca na celu ograniczenie ryzyka jego
+niepotrzebnego lub nadmiernego podania.
+
+Aplikacja jest dostępna wyłącznie na system **Windows**.  
+Obecnie nie ma planów wsparcia dla innych platform.
 
 ---
 
-### Wyłączenie Odpowiedzialności (Disclaimer)
-Aplikacja służy wyłącznie do celów informacyjnych i edukacyjnych. Nie należy jej traktować jako substytutu profesjonalnej diagnozy, porady medycznej lub leczenia.
+## Wyłączenie odpowiedzialności (Disclaimer)
+Aplikacja służy wyłącznie do celów informacyjnych i edukacyjnych.  
+Nie stanowi substytutu profesjonalnej porady medycznej, diagnozy ani leczenia.  
+Decyzje terapeutyczne powinny być podejmowane przez wykwalifikowany personel medyczny.
 
 ---
 
-### Jak uruchomić aplikację
-1. Rozpakuj archiwum **.zip**.
-2. Uruchom plik **"Licznik Bilansu.exe"**.
-3. Jeżeli wyświetli się ostrzeżenie, czytaj dalej.
-
-#### Wymagania wstępne
-Możliwe, że do uruchomienia aplikacji będzie potrzebne zainstalowanie **.NET**.
+## Wymagania systemowe
+- **Windows 10 / 11**
+- Brak dodatkowych zależności  
 
 ---
 
-### Problem z Windows SmartScreen
-Ponieważ aplikacja nie posiada podpisu cyfrowego, system Windows może wyświetlić ostrzeżenie **"System Windows ochronił ten komputer"**.
-
-**Aby uruchomić aplikację pomimo ostrzeżenia:**
-1. W oknie SmartScreen kliknij na tekst **"Więcej informacji"**.
-2. Kliknij przycisk **"Uruchom mimo to"**.
+## Jak uruchomić aplikację
+1. Uruchom plik **`kalkulator-bilansu-plynow.exe`**.
+2. Jeśli pojawi się ostrzeżenie systemowe, zapoznaj się z sekcją poniżej.
 
 ---
 
-*©2025 Grzegorz Kurowski*
+## Ostrzeżenie Windows SmartScreen
+Aplikacja nie posiada podpisu cyfrowego, dlatego system Windows może wyświetlić komunikat:
+
+**„System Windows ochronił ten komputer”**
+
+### Aby uruchomić aplikację:
+1. Kliknij **„Więcej informacji”**.
+2. Wybierz **„Uruchom mimo to”**.
+
+---
+
+© 2025 Grzegorz Kurowski
