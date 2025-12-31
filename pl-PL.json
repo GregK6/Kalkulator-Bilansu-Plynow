@@ -7,7 +7,7 @@
   "urine": "Mocz (ml)",
   "vomit": "Wymioty (ml)",
   "calculate": "Oblicz bilans płynów",
-  "result_default": "Podaj dane i oblicz\naby zobaczyć wynik",
+  "result_default": "Podaj dane i oblicz,\naby zobaczyć wynik",
   "error_choose": "Proszę wybrać typ bilansu płynów.",
   "error_number": "Proszę wprowadzić prawidłowe\nwartości liczbowe.",
   "result": "Pozostało do oddania {value} ml."
